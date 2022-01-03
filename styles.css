@@ -1,0 +1,122 @@
+body {
+  background-color: #EAF6F6;
+  font-size: 18px;
+}
+
+hr {
+  background-color: #EAF6F6;
+  border-style: dotted none none;
+  width: 5%;
+  border-width: 5px;
+  border-color: grey;
+}
+
+h1{
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+}
+
+h2{
+  color: #66BFBF;
+  font-family: Copperplate, Papyrus, fantasy;
+}
+
+img:hover{
+  background-color: #ffef96;
+}
+
+td{
+  padding-right: 20px;
+}
+
+th{
+  padding-right: 1px;
+}
+
+.qualities{
+  font-size: 18px;
+  padding-bottom: 10px;
+}
+
+.points{
+  padding-bottom: 10px;
+  font-family: Times, Times New Roman, serif;
+}
+
+.intro{
+  font-size: 15px;
+  font-family: Bradley Hand, cursive;
+  font-weight: 100;
+  font-style: oblique;
+}
+
+.hobbies:hover{
+  background-color: #fcfefe;
+}
+
+.contact:hover{
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.contact {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-bottom: 120px;
+  margin-right: 10px;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-bottom: auto;
+  margin-right: 10px;
+  font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.buttons{
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.gap{
+  margin-top: 20px;
+}
